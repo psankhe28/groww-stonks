@@ -19,7 +19,7 @@ const TabContainer = () => {
       <TabsList className="grid w-full sm:w-1/5 grid-cols-3">
         <TabsTrigger value="gainer">Gainers</TabsTrigger>
         <TabsTrigger value="loser">Losers</TabsTrigger>
-        <TabsTrigger value="active">Actively Traded</TabsTrigger>
+        <TabsTrigger value="active">Active</TabsTrigger>
       </TabsList>
       <TabsContent value="gainer" className="w-full">
         {GainerLoserData?.Information ? (
