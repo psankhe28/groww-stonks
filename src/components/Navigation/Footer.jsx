@@ -4,10 +4,7 @@ function Footer() {
       <div className="mx-auto w-full max-w-screen-xl px-2.5 md:px-20">
         <div className="flex justify-center">
           <p className="text-muted-foreground font-poppins text-sm md:text-base">
-            © 2023{" "}
-            <span className="text-primary bg-clip-text font-semibold">
-              Pratiksha Sankhe
-            </span>{" "}
+            © 2024{" "}
             All rights reserved
           </p>
         </div>
